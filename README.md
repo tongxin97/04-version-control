@@ -3,6 +3,6 @@
 
 Project forked from Cythia Tong: [04-version-control](https://github.com/CynthiaTong/04-version-control)
 
-Added boba icon (cuz boba is _life_)
+Added boba icon (cuz boba is life)
 
 Also updated *sprite* to include boba icon
