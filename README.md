@@ -1,6 +1,8 @@
-# 04-version-control
-This repo is created for my Version Control assignment for Drawing on the Web, Spring 2017.
+# Assign4: VC - Adding icon
+##### Sydney Mai
 
-LALALLALALALALLALALAL
+Project forked from Cythia Tong: [04-version-control](https://github.com/CynthiaTong/04-version-control)
 
-The original SVG Assignment on i6: [02-svg-icons](http://i6.cims.nyu.edu/~xt405/380/02-svg-icon)
+Added boba icon (cuz boba is _life_)
+
+Also updated *sprite* to include boba icon
